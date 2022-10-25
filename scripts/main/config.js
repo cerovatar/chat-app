@@ -1,12 +1,12 @@
 // ISI DENGAN PROJECT FIREBASE MILIK TEMEN-TEMEN SENDIRI
 const firebaseConfig = {
-    apiKey: "PUNYA-KAMU",
-    authDomain: "PUNYA-KAMU",
-    databaseURL: "PUNYA-KAMU",
-    projectId: "PUNYA-KAMU",
-    storageBucket: "PUNYA-KAMU",
-    messagingSenderId: "PUNYA-KAMU",
-    appId: "PUNYA-KAMU"
+    apiKey: "AIzaSyD63aGnCaxX6EnvUm71pB38WsJ9cyQlyao",
+    authDomain: "chatapp-11568.firebaseapp.com",
+    projectId: "chatapp-11568",
+    storageBucket: "chatapp-11568.appspot.com",
+    messagingSenderId: "934118916861",
+    appId: "1:934118916861:web:69672739cceae5e4d13494",
+    measurementId: "G-GBWFV1WB9H"
 };
 
 // BIAR GA KELAMAAN PAS MAU PANGGIL NANTI
